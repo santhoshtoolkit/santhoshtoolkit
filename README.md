@@ -30,13 +30,11 @@
 
 - 🌱 I’m currently learning **Devops**
 
-- 👨‍💻 All of my projects are available at [supun's workspace](http://supun.traditionalme.life)
+- 👨‍💻 All of my projects are available at [santhosh's workspace]
 
-- 💬 Ask me about **Java, Python, PHP and NodeJS**
+- 💬 Ask me about **Python, JS and NodeJS**
 
-- 📫 How to reach me **supunnanayakkara01@gmail.com**
-
-- 📄 Know about my experiences [my experiences](http://supun.traditionalme.life/#resume)
+- 📫 How to reach me **santhoshgandhasiri@gmail.com**
 
 - ⚡ Fun fact **I think I'm funny**
 
