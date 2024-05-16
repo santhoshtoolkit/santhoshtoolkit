@@ -27,14 +27,14 @@ Here are some ideas to get you started:
 <h2> 🚀 &nbsp;DevSecOps Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://github.githubassets.com/images/modules/site/features/security/advanced-security-icon.svg" alt="GitHub Advanced Security" width="50" height="50">
-<img src="https://raw.githubusercontent.com/aquasecurity/trivy/main/docs/assets/logo.png" alt="Trivy" width="50" height="50">
+<img src="https://github.com/aquasecurity/trivy/blob/main/docs/assets/trivy_logo_with_text.png?raw=true" alt="Trivy" width="50" height="50">
 </p>
 
 <h2> 🚀 &nbsp;Coding Languages Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" alt="Node.js" width="50" height="50">
 </p>
 
 <h2> 🚀 &nbsp;Databases I Have Used and Learned</h2>
