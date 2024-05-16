@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <h2> 🚀 &nbsp;DevSecOps Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://github.githubassets.com/images/modules/site/features/security/advanced-security-icon.svg" alt="GitHub Advanced Security" width="50" height="50">
-<img src="https://github.com/aquasecurity/trivy/blob/main/docs/assets/trivy_logo_with_text.png?raw=true" alt="Trivy" width="50" height="50">
+<img src="https://github.com/aquasecurity/trivy/raw/main/docs/assets/trivy_logo_with_text.png" alt="Trivy" width="50" height="50">
 </p>
 
 <h2> 🚀 &nbsp;Coding Languages Tools I Have Used and Learned</h2>
