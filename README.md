@@ -65,8 +65,6 @@
  
 ![Santhosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=santhoshtoolkit\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=santhoshtoolkit&theme=midnight-purple)](https://git.io/streak-stats)
-
 </div>
 
 <br><br>
