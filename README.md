@@ -100,6 +100,7 @@ const anmol = {
     funFact: "My jokes are a cry for help."
 };
 ```
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ## Use To Code
 
@@ -125,6 +126,8 @@ const anmol = {
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <br/>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <br>
 <h3 align="left">Connect with me:</h3>
