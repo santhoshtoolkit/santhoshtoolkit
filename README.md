@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Santhosh Gandhasiri</h1>
-<p align="center">Santhosh Gandhasir is the pioneering founder and director of Rechlinks Private Limited, a forward-thinking software company established in 2018. 🛠️</p>
+<p align="center">Santhosh Gandhasiri is the pioneering founder and Director of Rechlinks Private Limited, a software company established in 2018. 🛠️</p>
 
 <div align="center">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
@@ -25,7 +25,7 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
-- 🔭 I’m currently working on **UA IT(JKH IT)**
+- 🔭 I’m currently working as Devops Engineer at Rechlinks Private Limited**
 
 - 🌱 I’m currently learning **Devops**
 
@@ -34,8 +34,6 @@
 - 💬 Ask me about **Python, JS and NodeJS**
 
 - 📫 How to reach me **santhoshgandhasiri@gmail.com**
-
-- ⚡ Fun fact **I think I'm funny**
 
 <br>
 <h3 align="left">Connect with me:</h3>
