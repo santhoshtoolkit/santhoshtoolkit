@@ -58,8 +58,6 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
 <h3 align="left">GitHub Stats:</h3>
 <div align="center">
  
@@ -136,3 +134,5 @@ const anmol = {
 <a href="https://instagram.com/santhoshid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="supun___lk" height="30" width="40" /></a>
 </p>
 <br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
