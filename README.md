@@ -1,22 +1,18 @@
 <h1 align="center">Hello 👋, I'm Santhosh Gandhasiri</h1>
-<p align="center">Founder & Director at <strong>Rechlinks Private Limited</strong> | DevOps Engineer | Cloud Computing Enthusiast | Automation Advocate</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding" width="400" />
-</p>
+<p align="center">Founder & Director at <strong>Rechlinks Private Limited</strong> | DevOps Engineer | Cloud Computing Enthusiast | Automation Advocate | Prompt Engineering Specialist</p>
 
 ---
 
 ### 🔭 Currently Engaged In:
 - **Position**: DevOps Engineer at Rechlinks Private Limited
 - **Company Founded**: 2018
-- **Specialization**: I focus on streamlining infrastructure management, automating workflows, and implementing cloud solutions that drive business transformation.
+- **Specialization**: Leading the charge in cloud automation, infrastructure management, and DevOps practices to enhance business operations.
 
 ### 👨‍💻 My Work:
-- You can explore all of my professional projects on my [GitHub workspace](https://github.com/santhoshid).
+- Explore all of my professional projects on my [GitHub workspace](https://github.com/santhoshid).
 
 ### 📫 Get in Touch:
-- Feel free to reach out to me via email at [santhoshgandhasiri@gmail.com](mailto:santhoshgandhasiri@gmail.com).
+- Reach me via email at [santhoshgandhasiri@gmail.com](mailto:santhoshgandhasiri@gmail.com).
 
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" />
@@ -26,10 +22,17 @@
 
 ### 🛠️ Technologies & Tools:
 
+#### **Programming Languages**:
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,js,go" />
+  </a>
+</p>
+
 #### **Backend Development**:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,py,express" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express" />
   </a>
 </p>
 
@@ -54,31 +57,10 @@
   </a>
 </p>
 
-#### **Programming Languages**:
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,go" />
-  </a>
-</p>
-
-#### **Frontend & UI/UX**:
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,materialui,figma,xd" />
-  </a>
-</p>
-
-#### **Version Control & Collaboration**:
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket" />
-  </a>
-</p>
-
 ---
 
 ### 🌱 Currently Expanding My Expertise:
-- I am actively advancing my knowledge in **Kubernetes** and **CI/CD** pipelines to further optimize cloud infrastructure management and improve software deployment cycles.
+- Actively improving my knowledge in **Kubernetes** and **CI/CD pipelines**, with a focus on optimizing cloud infrastructure and automating deployment processes.
 
 ---
 
@@ -103,9 +85,8 @@
 ---
 
 ### 🚀 A Little More About Me:
-- With a deep passion for **cloud-native technologies**, I thrive on solving complex challenges and building scalable, secure systems using cutting-edge technologies.
-- My philosophy is rooted in **continuous learning**, ensuring I stay at the forefront of industry trends and best practices in cloud computing, DevOps, and automation.
+- I'm passionate about **cloud-native technologies** and **automation**, focusing on streamlining workflows and enhancing infrastructure performance. I am also delving into **Prompt Engineering**, leveraging cutting-edge AI and machine learning models to build highly effective automation systems.
 
 ---
 
-<h3 align="center">Let's Collaborate on Innovative Projects! 🚀</h3>
+<h3 align="center">Let's Collaborate on Impactful Projects! 🚀</h3>
